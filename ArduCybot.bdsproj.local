@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/12/19 19:29:36.515.pas,C:\Documents and Settings\david\My Documents\Borland Studio Projects\ArduCybot\Cybot.pas=</Transaction>
+    <Transaction>2008/12/19 19:32:25.718.bdsproj,C:\Documents and Settings\david\My Documents\Borland Studio Projects\Project1.bdsproj=D:\DelphiCode\ArduiBot\ArduiBot.bdsproj</Transaction>
+    <Transaction>2008/12/22 10:05:00.453.bdsproj,D:\DelphiCode\ArduiBot\ArduiBot.bdsproj=D:\DelphiCode\ArduiBot\ArduCybot.bdsproj</Transaction>
+    <Transaction>2008/12/22 10:06:29.171.bdsproj,D:\DelphiCode\ArduiBot\ArduCybot.bdsproj=D:\DelphiCode\ArduCybot\ArduCybot.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
