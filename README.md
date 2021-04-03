@@ -7,4 +7,6 @@ I haven't compiled this code in later versions of Delphi (i.e. later than XE), s
 
 recompiled what I had recently; needs more work to function under Delphi XE7 (I didn't bother upgrading further..no need for my stuff) dt 01JAN2021
 
+Maybe this could work with a Raspberry PiCO card programmed with python... dt 03APR2021 
+
 :fireworks:
