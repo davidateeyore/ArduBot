@@ -8,5 +8,6 @@ I haven't compiled this code in later versions of Delphi (i.e. later than XE), s
 recompiled what I had recently; needs more work to function under Delphi XE7 (I didn't bother upgrading further..no need for my stuff) dt 01JAN2021
 
 Maybe this could work with a Raspberry PiCO card programmed with python... dt 03APR2021 
+time has moved on, and the PiCO has a sibling with WiFi/Bluetooth - remote control becomes a lot easier; maybe a web interface or revamping the Delphi/Lazarus code.. dt 17MAR2024
 
 :fireworks:
