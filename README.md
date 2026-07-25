@@ -12,4 +12,6 @@ time has moved on, and the PiCO has a sibling with WiFi/Bluetooth - remote contr
 
 This project has taken a back seat in recent times.. dt 25AUG2024
 
+if I knew where the RealRobot stuff had got to, I would look at using an ESP32 module in the Cybot! dt 25JUL2026
+
 :fireworks:
